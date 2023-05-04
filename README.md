@@ -1,3 +1,3 @@
-# Corus Cooks
+# Corus-Cooks
 #
-# Cookbook
+# This version looks better
